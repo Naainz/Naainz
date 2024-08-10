@@ -8,7 +8,6 @@
 - 📫 Reach me at <a href="mailto:s@naai.nz">**s@naai.nz**</a>
 
 ---
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
