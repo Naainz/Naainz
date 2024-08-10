@@ -2,8 +2,11 @@
 <h3 align="center">A software developer from GB 🇬🇧</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naainz&label=Profile%20views&color=0e75b6&style=flat" alt="naainz" /> </p>
+
 ---
-- 📫 Reach me at **s@naai.nz**
+
+- 📫 Reach me at <a href="mailto:s@naai.nz">**s@naai.nz**</a>
+- 
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
